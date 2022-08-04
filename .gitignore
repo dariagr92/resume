@@ -1,0 +1,7 @@
+THUMBS.db
+/tmp/
+tmp/
+.DS_Store
+*.log
+logs/
+.idea/
